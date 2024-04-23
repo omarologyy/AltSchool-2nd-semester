@@ -42,7 +42,7 @@ const Navbar = ({ setOpen }) => {
 
   return (
     <NavContainer className="flex jc-between ai-center">
-      <h2>Dev Mariam</h2>
+      <h2>Umar Sulaiman</h2>
       <button
         onClick={() => {
           setOpen(true)
